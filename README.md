@@ -52,3 +52,4 @@ This starts both the frontend (Port 5173) and backend (Port 5000) using `concurr
 - **Database**: Cloud Firestore.
 
 &copy; 2026 HostelCare Management Team.
+
